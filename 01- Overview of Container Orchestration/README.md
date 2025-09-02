@@ -49,12 +49,12 @@ availability.
 Container orchestration is the process of automating the networking and
 management of containers so you can deploy applications at scale
 
-● Provisioning and deployment
-● Configuration and scheduling
-● Resource allocation
-● Load balancing and traffic routing
-● Monitoring container health
-● Keeping interactions between containers secure
+- Provisioning and deployment
+- Configuration and scheduling
+- Resource allocation
+- Load balancing and traffic routing
+- Monitoring container health
+- Keeping interactions between containers secure
 
 There are multiple set of Container Orchestration tools available in the Industry.
 Based on the organization and requirement, you can choose tools per

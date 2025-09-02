@@ -35,11 +35,11 @@ Kubernetes provides amazing set of features and is designed on the same
 principles that allow Google to run billions of containers a week.
 
 Some of the popular features include:
-● Pod Auto-Scaling
-● Service discovery and load balancing
-● Self-Healing of Containers
-● Secret management
-● Automated rollouts and rollbacks
+- Pod Auto-Scaling
+- Service discovery and load balancing
+- Self-Healing of Containers
+- Secret management
+- Automated rollouts and rollbacks
 
 ![My Image](images/image5.png)
 
