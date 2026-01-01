@@ -15,7 +15,7 @@ automatically recreate it.
 You would have to manually detect the failure and recreate the Pod.
 
 <div align="center">
- <img src="images/image2.png" alt="IAM Policies" width="60%">
+ <img src="images/image2.png" alt="IAM Policies" width="30%">
  </div>
 
 ### Issue with the Manual Step - Part 2
@@ -28,5 +28,5 @@ A ReplicaSet's purpose is to maintain a stable set of replica Pods running at an
 given time.
 
 <div align="center">
- <img src="images/image2.png" alt="IAM Policies" width="60%">
+ <img src="images/image3.png" alt="IAM Policies" width="30%">
  </div>
