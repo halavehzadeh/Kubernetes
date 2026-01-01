@@ -28,5 +28,5 @@ A ReplicaSet's purpose is to maintain a stable set of replica Pods running at an
 given time.
 
 <div align="center">
- <img src="images/image3.png" alt="IAM Policies" width="30%">
+ <img src="images/image3.png" alt="IAM Policies" width="60%">
  </div>
